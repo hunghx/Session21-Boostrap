@@ -1,0 +1,21 @@
+.form-login {
+  width: 500px;
+  background-color: #0f172a;
+  color: #f1f1f1;
+  border-radius: 15px;
+}
+.container-fluid {
+  background-image: url("./bg.jpg");
+  /* background-image: linear-gradient(
+    rgba(255, 255, 255, 0.251),
+    rgb(47, 42, 42, 0.4)
+  ); */
+  height: 100vh;
+}
+.form-control {
+  background-color: transparent;
+}
+.input-group {
+  border-radius: 5px;
+  /* border-style: dotted !important; */
+}
